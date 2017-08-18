@@ -1,5 +1,4 @@
 from PyQt5 import QtWidgets
-from urllib import request
 import sys
 
 class Form(QtWidgets.QDialog):
